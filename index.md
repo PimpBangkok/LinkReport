@@ -1,54 +1,5 @@
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
- <HEAD>
-  <TITLE> ThePimp Bangkok </TITLE>
-  <META NAME="Generator" CONTENT="EditPlus">
-  <META NAME="Author" CONTENT="">
-  <META NAME="Keywords" CONTENT="">
-  <META NAME="Description" CONTENT="">
 
-<style type="text/css">
-
-.button {
-  -moz-border-radius: 20px;
-  -moz-box-shadow: #6E7849 0px 0px 10px;
-  -moz-transition: all 0.5s ease;
-  -ms-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  -webkit-border-radius: 25px;
-  -webkit-box-shadow: #6E7849 0 0 10px;
-  -webkit-transition: all 0.5s ease;
-  background-color: #4b4978;
-  background-image: -moz-linear-gradient(90deg, #8d88c7, #4b4978);
-  background-image: -ms-linear-gradient(90deg, #8d88c7, #4b4978);
-  background-image: -o-linear-gradient(90deg, #8d88c7, #4b4978);
-  background-image: -webkit-linear-gradient(90deg, #8d88c7, #4b4978);
-  background-image: linear-gradient(90deg, #8d88c7, #4b4978);
-  border-radius: 20px;
-  border: 2px solid #4a5032;
-  box-shadow: #6E7849 0px 0px 10px;
-  color: #ffffff;
-  display: inline-block;
-  font-size: 20px;
-  margin: auto;
-  padding: 15px;
-  text-decoration: none;
-  text-shadow: #000000 5px 5px 15px;
-  transition: all 0.5s ease;
-}
-
-.button:hover {
-  padding: 15px;
-}
-
-</style>
-<script type="text/javascript">
-	function framelink(url){
-		var win = window.open();
-		win.document.write('<iframe width="100%" height="100%" src="'+url+'" frameborder="0" allowfullscreen></iframe>');
-	}
-</script>
  </HEAD>
 
  <BODY bgcolor="#000000">
